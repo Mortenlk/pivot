@@ -1,1 +1,1 @@
-Standardmappe
+This is an app for making pivot tables.

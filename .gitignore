@@ -1,0 +1,6 @@
+#Ignores
+#all json files
+*.json
+
+#all sh bash files
+*.sh
